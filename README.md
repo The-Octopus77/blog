@@ -1,11 +1,7 @@
-# Blog template
-## A template for markdown blogs with GitHub pages
+# Theo's Blog
+
 ![Markdown logo](/assets/img/md_logo.png)
-# Instructions for deploying this blog template
-If you plan on using this on your website, just click "Use this template" or fork this repo.     
-I highly recommend [dillinger markdown editor](https://dillinger.io/) for editing markdown files. [repl.it](https://repl.it)
-is also good.    
-This repo has gh-pages as it's default branch. This will automatically put your README.MD file (this file) on yourusername.github.io/blog. 
+### This blog was made in markdown and based off the template by @KazMalhotra.
 
 # Markdown syntax and examples
 ## Contents
