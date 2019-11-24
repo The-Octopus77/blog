@@ -3,24 +3,6 @@
 ![Markdown logo](/assets/img/md_logo.png)
 ### This blog was made in markdown and based off the template by @KazMalhotra.
 
-# Markdown syntax and examples
-## Contents
-### * [Headings](https://github.com/KazMalhotra/blog#heading-1)   
-### * [Text styling](https://kazmal.tech/blog#text-styling)
-### * [Block Quotes](https://kazmal.tech/blog#block-quotes)  
-### * [Superscript and Subscript](https://kazmal.tech/blog#superscript-and-subscript)  
-### * [Code blocks](https://kazmal.tech/blog#code-blocks)  
-### * [Tables](https://github.com/kazmalhotra/blog#tables)
-### * [Lists](https://kazmal.tech/blog#lists)
-### * [Links](https://kazmal.tech/blog#links)
-### * [Strikethrough](https://kazmal.tech/blog#strikethrough)
-
-# Heading 1
-## Heading 2  
-### Heading 3  
-#### Heading 4
-##### Heading 5
-###### Heading 6    
 
 
 ### Text styling
@@ -38,57 +20,23 @@
 ```
 ### Block quotes
 #### Renders as
-> Intelligence is the ability to avoid doing work, yet getting the work done.    
-> -Linus Torvalds
-#### Source 
-```
-> Intelligence is the ability to avoid doing work, yet getting the work done.    
-> -Linus Torvalds
-```
+> “Every man carries two bags about him, one in front and one behind, and both are full of faults. The bag in front contains his neighbors' faults, the one behind his own. Hence it is that men do not see their own faults, but never fail to see those of others.”
+> - Aesop
 
-### Superscript and subscript
-#### Renders as
-##### Superscript demonstrated by Einstein's famous Mass–energy equivalence
 E=MC<sup>2</sup>  
-##### Subscript demonstrated by the equation for finding the Nth Fibonacci number recursively
+
 F<sub>n</sub>=F<sub>n-1</sub>+F<sub>n-2</sub>
-#### Source
-```
-##### Superscript demonstrated by Einstein famous Mass–energy equivalence
-E=MC<sup>2</sup>  
-##### Subscript demonstrated by the equation for finding the Nth Fibonacci number recursively
-F<sub>n</sub>=F<sub>n-1</sub>+F<sub>n-2</sub>
-```
-### Code blocks
-`Wow, code block`
 ```
 Multi-line code block  
 In markdown, makes a haiku
 Japanese poem
 ```    
-With JS syntax highlighting
+
 ``` js
 function fib(n){
   if(n < 2) return n;
   return fib(n - 1) + fib(n - 2);
 }
-```
-
-### Tables
-#### Renders as
-##### Note: Tables sometimes render incorrectly when bieng viewed in a browser. If you are having this issue, view this file  [here](https://github.com/KazMalhotra/blog/blob/gh-pages/README.md#tables)
-| Column | Different column |
-| ------ | ----------- |
-| Table thing one  |*their called arguments* |
-| Row | **No, their called parameters** |
-| Cell| `Actually, their called cells.` |
-#### Source
-```
-| Column | Different column |
-| ------ | ----------- |
-| Table thing one  |*their called arguments* |
-| Row | **No, their called parameters** |
-| Cell| `Actually, their called cells.` |
 ```
 ### Lists
 #### Renders as
@@ -128,22 +76,14 @@ function fib(n){
 ```
 ### Links
 #### Renders as
-[Go to my website](https://kazmal.tech)  
-#### Source
-`[Go to my website](https://kazmal.tech)  `
-### Strikethrough
-#### Renders as
-~~the earth is flat~~
-#### Source
-```
-~~the earth is flat~~
-```
+[Go to my website](https://the-o.tech)  
+
 
 [The repo for this template](https://github.com/kazmalhotra/blog)  
 [Go to my website](https://kazmal.tech)  
 [Go to the live version of this file](https://kazmal.tech/blog)  
 
-(c) Kaz Malhotra 2019
+(c) Kaz Malhotra and Theo Butler2019
 
 
 
